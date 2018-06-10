@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55bc4693-1d99-4589-bb2f-36ac780170db" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/localVariable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moreOnList.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="localVariable.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="localVariable.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/localVariable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="201">
+              <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moreOnList.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moreOnList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -110,6 +118,7 @@
         <option value="$PROJECT_DIR$/fungsi.py" />
         <option value="$PROJECT_DIR$/venv/lambda.py" />
         <option value="$PROJECT_DIR$/localVariable.py" />
+        <option value="$PROJECT_DIR$/moreOnList.py" />
       </list>
     </option>
   </component>
@@ -156,25 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.localVariable">
-    <configuration name="for loop, else, break, range" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BelajarPhyton" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for loop, else, break, range.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.moreOnList">
     <configuration name="fungsi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BelajarPhyton" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,6 +220,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="moreOnList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BelajarPhyton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moreOnList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BelajarPhyton" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,19 +257,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.for loop, else, break, range" />
       <item itemvalue="Python.while" />
       <item itemvalue="Python.fungsi" />
       <item itemvalue="Python.lambda" />
       <item itemvalue="Python.localVariable" />
+      <item itemvalue="Python.moreOnList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.moreOnList" />
         <item itemvalue="Python.localVariable" />
         <item itemvalue="Python.lambda" />
         <item itemvalue="Python.fungsi" />
         <item itemvalue="Python.while" />
-        <item itemvalue="Python.for loop, else, break, range" />
       </list>
     </recent_temporary>
   </component>
@@ -383,8 +392,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/localVariable.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="201">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moreOnList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
         </state>
       </provider>
     </entry>
